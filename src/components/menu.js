@@ -59,34 +59,34 @@ const Menu = [
        {
        id: 8,
        image: "https://images.unsplash.com/photo-1600609293139-ea525a3edeec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Z29sZiUyMHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-       name:"Rajma Rice",
+       name:"Traditionally",
        category: "golf",
-       price: "60₹",
-       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+       time: "7.2k",
+       description: 'golf has always been played as an individual sport'
    },
        {
        id: 9,
        image: "https://images.unsplash.com/photo-1591491640784-3232eb748d4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Z29sZiUyMHNwb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-       name:"samaso",
+       name:"Club-and-ball",
        category: "golf",
-       price: "10₹",
-       description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+       time: "10.1k",
+       description: 'Golf is known by many to be one of the most difficult sports to play and master'
    },
    {
     id: 10,
     image: "https://images.unsplash.com/photo-1577702310329-f7293ba86b58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3ltbmFzdGljc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-    name:"Rajma Rice",
+    name:"Gymnastics",
     category: "gymnastics",
-    price: "60₹",
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+    time: "3.1k",
+    description: ' Gymnastics is the most difficult sport on the planet, both mentally and physically.'
 },
     {
     id: 11,
     image: "https://images.unsplash.com/photo-1519502527066-26f4a82c57bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGd5bW5hc3RpY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-    name:"samaso",
+    name:"Highlighted",
     category: "gymnastics",
-    price: "10₹",
-    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
+    time: "8.5k",
+    description: 'Gymnastics contribute to the development of the arms, legs, shoulders, back,and abdominal muscle groups.'
 },
 ];
 
