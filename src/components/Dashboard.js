@@ -41,7 +41,7 @@ const Dashboard = () => {
                             
                             {
                                 items.map((elem) => {
-                                    const { id, name, image, description } = elem;
+                                    const { id, name, image, description,time } = elem;
 
                                     return (
                                     
@@ -56,7 +56,8 @@ const Dashboard = () => {
                                                 <div className="image-overlap">
                                                     
                                                         <h3>{name}</h3>
-                                                        <p>{description }</p>
+                                                        <p style={{marginLeft:"14px"}}>{description }</p>
+                                                        <p>{time}</p>
                                                    </div>
                                                     {/* <div className="menu-price-book">
                                                         <div className="price-book-divide d-flex justify-content-between ">

@@ -14,7 +14,7 @@ const Menu = [
        name:"Day2",
        category: "cycleing",
        time: "2.3s",
-       description: 'cycleing shunt on performance'
+       description: 'Cycleing shunt on Performance'
    },
    {
        id: 3,
