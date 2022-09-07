@@ -52,23 +52,14 @@ const Dashboard = () => {
                                                     <img src={image} alt={name} className="img-fluid"/>
                                                 </div>
 
-                                                {/* menu items description */}
+                                                {/* description items description */}
                                                 <div className="image-overlap">
                                                     
                                                         <h3>{name}</h3>
                                                         <p style={{marginLeft:"14px"}}>{description }</p>
                                                         <p>{time}</p>
                                                    </div>
-                                                    {/* <div className="menu-price-book">
-                                                        <div className="price-book-divide d-flex justify-content-between ">
-                                                            <h2>Price : {price}</h2>
-                                                            <a href="#">
-                                                                <button className="btn btn-primary">Order Now</button>
-                                                            </a>
-                                                        </div>
-                                                        <p>*Prices may vary on selected date.</p>
-                                                    </div>
-                                                 */}
+                                                    
                                             </div>
                                         </div>
                                     )
